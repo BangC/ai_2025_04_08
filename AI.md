@@ -1,12 +1,12 @@
 # AI : LLM
 ### 머신 러닝 구조
 ##### 뉴런
-- [뉴런](ChatGPT Image 2025년 4월 4일 오후 03_58_26.png)
+- ![뉴런](ChatGPT Image 2025년 4월 4일 오후 03_58_26.png)
 - 화학적
 - 복잡
   
 ##### 컴퓨터
-- [DNN](Two-or-more-hidden-layers-comprise-a-Deep-Neural-Network.png)
+- ![DNN](Two-or-more-hidden-layers-comprise-a-Deep-Neural-Network.png)
 - 순차적
 - 병렬계산 : GPU
 - 조단위 파라미터
@@ -16,10 +16,10 @@
 - 하드웨어 발전 기다림
 - 기본구조
     - 1차식 : y = ax + b
-    - [1x](1-intro-deep-neural-networks.png)
-    - [multiX](3-intro-deep-neural-networks.png)
+    - ![1x](1-intro-deep-neural-networks.png)
+    - ![multiX](3-intro-deep-neural-networks.png)
     - 입력 => 모델 => 출력 : 만능상자
-    - [학습후](deepLearn_2_EN-1536x768.png)
+    - ![학습후](deepLearn_2_EN-1536x768.png)
 - 기술력
     - 모델 : 학습 ⇔ 검증 => 추론
     - 모델을 어떻게 구성하느냐
@@ -32,7 +32,7 @@
 - 패턴과 규칙이 강한 분야 일수록 더 쉬움
 - LLM : 언어 => 언어
     - 다음단어(토큰) 예측
-    - [LLM 구조](240326_Story_002.png)
+    - ![LLM 구조](240326_Story_002.png)
     - 질문 : 답
     - 지문 : 이어서 작성
     - 대화의 총 크기 제한이 있음 : 토큰기준 약 128K : 모델마다 다름
